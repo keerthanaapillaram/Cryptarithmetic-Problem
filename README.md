@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name: Viswanadham Venkata Sai Sruthi            </h3>
-<h3>Register Number/Staff Id:   212223100061   </h3>
+<h3>Name: P Keerthana          </h3>
+<h3>Register Number:   212223240069   </h3>
 <H3>Aim:</H3>
 
 <p>
